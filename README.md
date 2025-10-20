@@ -1,5 +1,5 @@
 ## Hi there, It's Islem 👋
-
+## Currently working on my bachelor's degree
 <!--
 **Islemabb/Islemabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
